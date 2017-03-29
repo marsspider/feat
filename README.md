@@ -1,5 +1,5 @@
 # FEAT - Front End Application Template
-[![Build Status](https://travis-ci.org/HosseinKarami/fastshell.png?branch=master)](https://travis-ci.org/HosseinKarami/fastshell)
+[![Build Status](https://travis-ci.org/marsspider/feat.svg?branch=master)](https://travis-ci.org/marsspider/feat)
 
 inspired by [FastShell](https://hosseinkarami.com/fastshell/)
 Fiercely quick front-end boilerplate and workflows.
