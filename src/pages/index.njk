@@ -1,0 +1,21 @@
+<!-- index.nunjucks -->
+{% extends "layout.njk" %}
+{% set lang = "it_IT" %}
+
+{% block page_lang %}lang="it"{% endblock %}
+
+{% block og %}
+	{% include "partials/og.njk" %}
+{% endblock %}
+
+{% block page_title %}
+	<title>{{ content[lang].site_title }}</title>
+{% endblock %}
+
+{% block content %}
+
+	{% include "partials/header.njk" %}
+	{% include "partials/main.njk" %}
+	{% include "partials/footer.njk" %}
+
+{% endblock %}

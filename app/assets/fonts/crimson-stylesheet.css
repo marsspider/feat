@@ -1,0 +1,42 @@
+@font-face {
+	font-family: 'Crimson+Text';
+	src: url('crimsontext-bold-webfont.woff2') format('woff2'),
+		 url('crimsontext-bold-webfont.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Crimson+Text';
+	src: url('crimsontext-bolditalic-webfont.woff2') format('woff2'),
+		 url('crimsontext-bolditalic-webfont.woff') format('woff');
+	font-weight: 700;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Crimson+Text';
+	src: url('crimsontext-italic-webfont.woff2') format('woff2'),
+		 url('crimsontext-italic-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Crimson+Text';
+	src: url('crimsontext-roman-webfont.woff2') format('woff2'),
+		 url('crimsontext-roman-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Crimson+Text';
+	src: url('crimsontext-semibold-webfont.woff2') format('woff2'),
+		 url('crimsontext-semibold-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Crimson+Text';
+	src: url('crimsontext-semibolditalic-webfont.woff2') format('woff2'),
+		 url('crimsontext-semibolditalic-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: italic;
+}

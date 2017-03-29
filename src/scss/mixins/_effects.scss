@@ -1,0 +1,31 @@
+
+
+@mixin tshadow () {
+  text-shadow: 0 1px 4px rgba(0,0,0,0.8);
+}
+@mixin tshadowbig () {
+  text-shadow: 0 2px 6px rgba(0,0,0,0.8);
+}
+
+@mixin gradient-rose {
+    background: #f388af; /* Old browsers */
+    background: -moz-linear-gradient(top,  #f388af 0%, #ed5883 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #f388af 0%,#ed5883 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #f388af 0%,#ed5883 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f388af', endColorstr='#ed5883',GradientType=0 ); /* IE6-9 */
+
+}
+@mixin gradient-brown {
+    background: #503131; /* Old browsers */
+    background: -moz-linear-gradient(top,  #503131 0%, #352020 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #503131 0%,#352020 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #503131 0%,#352020 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#503131', endColorstr='#352020',GradientType=0 ); /* IE6-9 */
+}
+@mixin gradient-border {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e1c95c+15,e1c95c+100&0+15,1+100 */
+    background: -moz-linear-gradient(top,  rgba(225,201,92,0) 35%, rgba(225,201,92,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(225,201,92,0) 35%,rgba(225,201,92,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(225,201,92,0) 35%,rgba(225,201,92,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00e1c95c', endColorstr='#e1c95c',GradientType=0 ); /* IE6-9 */
+}

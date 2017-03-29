@@ -1,0 +1,31 @@
+{
+	"content":{
+		"it_IT": {
+			"og": {
+				"sitename": "FEAT",
+				"title": "Front End Application Template",
+				"description": "Description",
+				"image": "OG_1200x628_it.jpg"
+			},
+			"site_title": "Front End Application Template"
+		},
+		"en_EN": {
+			"og": {
+				"sitename": "FEAT",
+				"title": "Front End Application Template",
+				"description": "Description",
+				"image": "OG_1200x628_en.jpg"
+			},
+			"site_title": "Front End Application Template"
+		},
+		"de_DE": {
+			"og": {
+				"sitename": "FEAT",
+				"title": "Front End Application Template",
+				"description": "Description",
+				"image": "OG_1200x628_de.jpg"
+			},
+			"site_title": "Front End Application Template"
+		}
+	}
+}
