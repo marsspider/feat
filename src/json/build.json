@@ -1,5 +1,6 @@
 {
-	"content":{
+	"style.min.css": "style-8e2d83ec81.min.css",
+	"content": {
 		"it_IT": {
 			"og": {
 				"sitename": "FEAT",
@@ -27,5 +28,9 @@
 			},
 			"site_title": "Front End Application Template"
 		}
+	},
+	"scripts.min.js": "scripts-4bc621549f.min.js",
+	"url": {
+		"scripts.min.js": "scripts-4bc621549f.min.js"
 	}
 }
